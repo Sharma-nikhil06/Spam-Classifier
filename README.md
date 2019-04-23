@@ -10,11 +10,11 @@ Pandas<br>
 NumPy<br>
 matplotlib<br></b>
 An environment to work in - something like Jupyter or Spyder
-For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
+For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.<br>
 
-Dataset:
-The dataset is in the form of a CSV file:
-https://drive.google.com/file/d/18TGGVR4TqYLY2_sI4sRWMz4ncOidr0Ju/view?usp=sharing/
+<b>Dataset:</b><br>
+The dataset is in the form of a CSV file:<br>
+https://drive.google.com/file/d/18TGGVR4TqYLY2_sI4sRWMz4ncOidr0Ju/view?usp=sharing/<br>
 The files contain one message per line. Each line is composed by two columns: “Class” contains the label (ham or spam) and “SMS” contains the raw text.
 
 
