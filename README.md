@@ -1,14 +1,14 @@
 <h1>Spam Classification</h1>
-The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged according being ham (legitimate) or spam.
+The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged according being ham (legitimate) or spam.<br>
  
 In this project we build a model for classifying the SMS into spam or ham through the text of the SMS using standard classifiers.
-Prerequisites
-We would highly recommend that before the hack night you have some kind of toolchain and development environment already installed and ready. If you have no idea where to start with this, try a combination like:
-Python
-scikit-learn / sklearn
-Pandas
-NumPy
-matplotlib
+<b>Prerequisites:-</b><br>
+<b>
+Python<br>
+scikit-learn / sklearn<br>
+Pandas<br>
+NumPy<br>
+matplotlib<br></b>
 An environment to work in - something like Jupyter or Spyder
 For Linux people, your package manager should be able to handle all of this. If it somehow can't, see if you can at least install Python and pip and then use pip to install the above packages.
 
